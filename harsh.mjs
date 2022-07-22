@@ -8,7 +8,7 @@ console.log(
   chalk.bgCyan(
     "hii " +
       yourName +
-      " baby! good morning!! Hope you are not confused regards what to do 😮‍💨 \n"
+      "  good morning!! Hope you are not confused regards what to do 😮‍💨 \n"
   )
 );
 console.log(

@@ -20,8 +20,8 @@ console.log(
 // console.log("hii");
 var questions = [
   {
-    question: "Who is my crush? ",
-    answer: "anjali",
+    question: "Are u confident to proceed? ",
+    answer: "yes",
   },
   {
     question: "the person i love the most? ",
